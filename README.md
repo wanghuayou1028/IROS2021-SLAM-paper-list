@@ -218,3 +218,114 @@ All the classified papers can be download from Baidu cloud Disk: Link：https://
 2. Heading Estimation Using Ultra-Wideband Received Signal Strength and Gaussian Processes
 3. Online Spatio-Temporal Calibration of Tightly-Coupled Ultrawideband-Aided Inertial Localization
 
+
+#### IROS2021_autonomous_driving_paper_list:
+
+##### Perception:
+
+1. 3D Radar Velocity Maps for Uncertain Dynamic Environments
+2. A 3D Visual Perception Approach for Autonomous Driving Based on Surround-View Fisheye Cameras
+3. A Simple and Efficient Multi-Task Network for 3D Object Detection and Road Understanding
+4. BEV-Net A Bird's Eye View Object Detection Network for LiDAR Point Cloud
+5. CP-Loss Connectivity-Preserving Loss for Road Curb Detection in Autonomous Driving with Aerial Images
+6. Fine-Grained Off-Road Semantic Segmentation and Mapping Via Contrastive Learning
+7. LiDAR-Based Drivable Region Detection for Autonomous Driving
+8. Monitoring Object Detection Abnormalities Via Data-Label and Post-Algorithm Abstractions
+9. Monocular 3D Vehicle Detection Using Uncalibrated Traffic Cameras through Homography
+10. RV-FuseNet Range View Based Fusion of Time-Series LiDAR Data for Joint 3D Object Detection and Motion Forecasting
+11. SSTN: Self-Supervised Domain Adaptation Thermal Object Detection for Autonomous Driving
+12. COINet: Adaptive Segmentation with Co-Interactive Network for Autonomous Driving
+13. SNE-RoadSeg+ Rethinking Depth-Normal Translation and Deep Supervision for Freespace Detection
+14. Unsupervised Vehicle Re-Identification Via Self-Supervised Metric Learning Using Feature Dictionary
+
+##### Prediction:
+
+1. Automated Type-Aware Traffic Speed Prediction Based on Sparse Intelligent Camera System
+2. Decoder Fusion RNN Context and Interaction Aware Decoders for Trajectory Prediction
+3. Joint Intention and Trajectory Prediction Based on Transformer
+4. Maneuver-based Trajectory Prediction for Self-driving Cars Using Spatio-temporal Convolutional Networks
+5. Multiple Contextual Cues Integrated Trajectory Prediction for Autonomous Driving
+
+##### Tracking:
+
+1. Cross-Modal 3D Object Detection and Tracking for Auto-Driving
+2. Joint Multi-Object Detection and Tracking with Camera-LiDAR Fusion for Autonomous Driving
+3. Model-free Vehicle Tracking and State Estimation in Point Cloud Sequences
+4. Score Refinement for Confidence-Based 3D Multi-Object Tracking
+
+##### Planning:
+
+1. DeepSIL A Software-In-The-Loop Framework for Evaluating Motion Planning Schemes Using Multiple Trajectory Prediction Networks
+2. Diverse Critical Interaction Generation for Planning and Planner Evaluation
+3. PILOT: Efficient Planning by Imitation Learning and Optimisation for Safe Autonomous Driving
+4. STFP: Simultaneous Traffic Scene Forecasting and Planning for Autonomous Driving
+5. A Novel Recursive Smooth Trajectory Generation Method for Unmanned Vehicles
+
+##### Intention recognition:
+
+1. A Multimodal and Hybrid Framework for Human Navigational Intent Inference
+2. An Efficient Understandability Objective for Dynamic Optimal Control
+3. CovarianceNet Conditional Generative Model for Correct Covariance Prediction in Human Motion Prediction
+4. GRIT Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving
+5. Interpretable Goal Recognition in the Presence of Occluded Factors for Autonomous Vehicles
+6. Multi-modal Scene-compliant User Intention Estimation in Navigation
+7. Safety-Oriented Pedestrian Occupancy Forecasting
+8. Simultaneous Prediction of Pedestrian Trajectory and Actions Based on Context Information Iterative Reasoning
+
+##### Control:
+
+1. Semi-Cooperative Control for Autonomous Emergency Vehicles
+
+##### Navigation:
+
+1. A 3D Visual Perception Approach for Autonomous Driving Based on Surround-View Fisheye Cameras
+2. A Kinematic Model for Trajectory Prediction in General Highway Scenarios
+3. A Multi-Objective Path Planning and Exploration Framework for Unknown and Unstructured Environments
+4. Autonomous Drone Racing with Deep Reinforcement Learning
+5. Autonomous Mobile Robot Navigation Independent of Road Boundary Using Driving Recommendation Map
+6. Autonomous Vehicle Navigation in Semi-Structured Environments Based on Sparse Waypoints and LiDAR Road-Tracking
+7. Connecting Deep-Reinforcement-Learning-Based Obstacle Avoidance with Conventional Global Planners Using Waypoint Generators
+8. Context and Orientation Aware Path Tracking
+9. Cooperative Autonomous Vehicles That Sympathize with Human Drivers
+10. Deep Semantic Segmentation at the Edge for Autonomous Navigation in Vineyard Rows
+11. DiGNet Learning Scalable Self-Driving Policies for Generic Traffic Scenarios with Graph Neural Networks
+12. Fast Autonomous Robotic Exploration Using the Underlying Graph Structure
+13. Gaussian Process-based Interpretable Runtime Adaptation for Safe Autonomous Systems Operations in Unstructured Environments
+14. Interaction-Based Trajectory Prediction Over a Hybrid Traffic Graph
+15. KB-Tree Learnable and Continuous Monte-Carlo Tree Search for Autonomous Driving Planning
+16. Latent Attention Augmentation for Robust Autonomous Driving Policies
+17. Learning Inverse Kinodynamics for Accurate High-Speed Off-Road Navigation on Unstructured Terrain
+18. Learning-Based 3D Occupancy Prediction for Autonomous Navigation in Occluded Environments
+19. LiDAR Degradation Quantification for Autonomous Driving in Rain
+20. Map-Aided Train Navigation with IMU Measurements
+21. Minimizing Safety Interference for Safe and Comfortable Automated Driving with Distributional Reinforcement Learning
+22. NavTuner Learning a Scene-Sensitive Family of Navigation Policies
+23. On Fault Classification in Connected Autonomous Vehicles Using Output-Only Measurements
+24. Online High-Level Model Estimation for Efficient Hierarchical Robot Navigation
+25. Pallet Detection and Docking Strategy for Autonomous Pallet Truck AGV Operation
+26. Reinforcement Learning Based Negotiation-Aware Motion Planning of Autonomous Vehicles
+27. Road Graphical Neural Networks for Autonomous Roundabout Driving
+28. Robust Policy Search for an Agile Ground Vehicle under Perception Uncertainty
+29. Shape Estimation of Negative Obstacles for Autonomous Navigation
+30. The Role of the Hercules Autonomous Vehicle During the COVID-19 Pandemic An Autonomous Logistic Vehicle for Contactless Goods Transportation
+31. Unsupervised Traffic Scene Generation with Synthetic 3D Scene Graphs
+32. Vulnerability of Connected Autonomous Vehicles Networks to Periodic Time-Varying Communication Delays of Certain Frequency
+
+##### Modeling:
+
+1. A High-Accuracy Framework for Vehicle Dynamic Modeling in Autonomous Driving
+2. The Reasonable Crowd Towards Evidence-Based and Interpretable Models of Driving Behavior
+
+##### Multi robot system:
+
+1. Cooperative Transportation Robot System Using Risk-Sensitive Stochastic Control
+
+##### Others:
+
+1. Agent-Aware State Estimation for Autonomous Vehicles
+2. Dynamic Lambda-Field A Counterpart of the Bayesian Occupancy Grid for Risk Assessment in Dynamic Environments
+3. Finding Failures in High-Fidelity Simulation Using Adaptive Stress Testing and the Backward Algorithm
+4. Gridlock-Free Autonomous Parking Lots for Autonomous Vehicles
+5. StyleLess Layer Improving Robustness for Real-World Driving
+6. Vehicle Dispatch in On-Demand Ride-Sharing with Stochastic Travel Times
+7. Exploring Imitation Learning for Autonomous Driving with Feedback Synthesizer and Differentiable Rasterization
